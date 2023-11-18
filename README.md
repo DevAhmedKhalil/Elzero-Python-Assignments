@@ -4,8 +4,6 @@
 
 # Python Week 1 Solution
 
----
-
 ## Week 1 (Lessons 001 to 010)
 
 - [Link to Week 1 Assignments on Elzero.org - Lessons 001 to 010](https://elzero.org/python-assignments-lesson-from-1-to-10/)
