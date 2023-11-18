@@ -5,7 +5,7 @@
 
 # Elzero Web School All Assignments For Python
 
-This repository contains all the assignments for the Elzero Web School Python course. [ Each Week Assignments In It's Own Branch ]
+This repository contains all the assignments and solutions for the Elzero Web School Python course.
 
 ## Study Plan Python [ Link For All Weeks ]
 
@@ -17,7 +17,7 @@ This repository contains all the assignments for the Elzero Web School Python co
 
 ---
 
-# All Assignments Solutions 💥
+# 💥 All Assignments Solutions 💥
 
 ## Week 1 (Lessons 001 to 010)
 
@@ -40,6 +40,29 @@ This repository contains all the assignments for the Elzero Web School Python co
 
 - [Link to Week 4 Assignments on Elzero.org - Lessons 026 to 032](https://elzero.org/python-assignments-lesson-from-26-to-32/)
 - #### [Solution Of Week 4](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week4)
+
+## Week 5 (Lessons 033 to 040)
+
+- [Link to Week 5 Assignments on Elzero.org - Lessons 033 to 040](https://elzero.org/python-assignments-lesson-from-33-to-37/)
+- [Link to Week 5 Assignments on Elzero.org - Lessons 033 to 040](https://elzero.org/python-assignments-lesson-from-38-to-40/)
+- #### [Solution Of Week 5](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week5)
+
+## Week 6 (Lessons 041 to 046)
+
+- [Link to Week 6 Assignments on Elzero.org - Lessons 041 to 046](https://elzero.org/python-assignments-lesson-from-41-to-46/)
+- #### [Solution Of Week 6](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week6)
+
+ ## Week 7 (Lessons 056 to 055)
+
+- [Link to Week 7 Assignments on Elzero.org - Lessons 056 to 055](https://elzero.org/python-assignments-lesson-from-56-to-59/)
+- [Link to Week 7 Assignments on Elzero.org - Lessons 047 to 055](https://elzero.org/python-assignments-lesson-from-51-to-55/)
+- #### [Solution Of Week 7](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week7)
+
+## Week 8 (Lessons 056 to 064)
+
+- [Link to Week 8 Assignments on Elzero.org - Lessons 056 to 059](https://elzero.org/python-assignments-lesson-from-56-to-59/)
+- [Link to Week 8 Assignments on Elzero.org - Lessons 060 to 064](https://elzero.org/python-assignments-lesson-from-60-to-64/)
+- #### [Solution Of Week 8](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week8)
 
 ---
 <div align="center">
