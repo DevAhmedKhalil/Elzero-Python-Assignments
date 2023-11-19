@@ -7,7 +7,7 @@
 ## Week 15 (Lessons 117 to 127)
 
 - [Link to Week 15 Assignments on Elzero.org - Lessons 117 to 127](https://elzero.org/python-assignments-lesson-from-117-to-127/)
-- #### [Solution Of Week 15](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week15)
+- #### [Solution Of Week 15](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week15/week15)
 
 ---
 
