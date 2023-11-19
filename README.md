@@ -7,7 +7,7 @@
 ## Week 14 (Lessons 103 to 116)
 
 - [Link to Week 14 Assignments on Elzero.org - Lessons 103 to 116](https://elzero.org/python-assignments-lesson-from-103-to-116/)
-- #### [Solution Of Week 14](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week14)
+- #### [Solution Of Week 14](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week14/week14)
 
 ---
 
