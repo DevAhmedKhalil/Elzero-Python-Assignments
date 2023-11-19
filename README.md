@@ -8,7 +8,7 @@
 
 - [Link to Week 5 Assignments on Elzero.org - Lessons 033 to 040](https://elzero.org/python-assignments-lesson-from-33-to-37/)
 - [Link to Week 5 Assignments on Elzero.org - Lessons 033 to 040](https://elzero.org/python-assignments-lesson-from-38-to-40/)
-- #### [Solution Of Week 5](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week5)
+- #### [Solution Of Week 5](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week5/week5)
 
 ---
 
