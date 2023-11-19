@@ -7,7 +7,7 @@
 ## Week 1 (Lessons 001 to 010)
 
 - [Link to Week 1 Assignments on Elzero.org - Lessons 001 to 010](https://elzero.org/python-assignments-lesson-from-1-to-10/)
-- #### [Solution Of Week 1](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week1)
+- #### [Solution Of Week 1](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week1/week1)
 
 ---
 
