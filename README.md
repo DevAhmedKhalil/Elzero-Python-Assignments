@@ -7,7 +7,7 @@
 ## Week 13 (Lessons 095 to 102)
 
 - [Link to Week 13 Assignments on Elzero.org - Lessons 095 to 102](https://elzero.org/python-assignments-lesson-from-95-to-102/)
-- #### [Solution Of Week 13](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week13)
+- #### [Solution Of Week 13](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week13/week13)
 
 ---
 
