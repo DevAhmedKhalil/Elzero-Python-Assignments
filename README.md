@@ -7,7 +7,7 @@
 ## Week 6 (Lessons 041 to 046)
 
 - [Link to Week 6 Assignments on Elzero.org - Lessons 041 to 046](https://elzero.org/python-assignments-lesson-from-41-to-46/)
-- #### [Solution Of Week 6](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week6)
+- #### [Solution Of Week 6](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week6/week6)
 
 ---
 
