@@ -7,7 +7,7 @@
 ## Week 4 (Lessons 026 to 032)
 
 - [Link to Week 4 Assignments on Elzero.org - Lessons 026 to 032](https://elzero.org/python-assignments-lesson-from-26-to-32/)
-- #### [Solution Of Week 4](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week4)
+- #### [Solution Of Week 4](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week4/week4)
 
 ---
 
