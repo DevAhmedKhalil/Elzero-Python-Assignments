@@ -7,7 +7,7 @@
 ## Week 2 (Lessons 011 to 018)
 
 - [Link to Week 2 Assignments on Elzero.org - Lessons 011 to 018](https://elzero.org/python-assignments-lesson-from-11-to-18/)
-- #### [Solution Of Week 2](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week2)
+- #### [Solution Of Week 2](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week2/week2)
 
 ---
 
