@@ -9,7 +9,7 @@
 
 - [Link to Week 10 Assignments on Elzero.org - Lessons 069 to 071](https://elzero.org/python-assignments-lesson-from-69-to-71/)
 - [Link to Week 10 Assignments on Elzero.org - Lessons 069 to 071](https://elzero.org/python-assignments-lesson-from-72-to-75/)
-- #### [Solution Of Week 10](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week10)
+- #### [Solution Of Week 10](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week10/week10)
 
 ---
 <div align="center">
