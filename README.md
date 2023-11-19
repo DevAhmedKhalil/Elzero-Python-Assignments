@@ -8,7 +8,7 @@
 
 - [Link to Week 12 Assignments on Elzero.org - Lessons 086 to 089](https://elzero.org/python-assignments-lesson-from-86-to-89/)
 - [Link to Week 12 Assignments on Elzero.org - Lessons 090 to 094](https://elzero.org/python-assignments-lesson-from-90-to-94/)
-- #### [Solution Of Week 12](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week12)
+- #### [Solution Of Week 12](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week12/week12)
 
 ---
 
