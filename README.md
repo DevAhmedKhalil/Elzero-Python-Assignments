@@ -64,6 +64,45 @@ This repository contains all the assignments and solutions for the Elzero Web Sc
 - [Link to Week 8 Assignments on Elzero.org - Lessons 060 to 064](https://elzero.org/python-assignments-lesson-from-60-to-64/)
 - #### [Solution Of Week 8](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week8)
 
+## Week 9 (Lessons 065 to 068)
+
+- [Link to Week 9 Assignments on Elzero.org - Lessons 065 to 068](https://elzero.org/python-assignments-lesson-from-65-to-68/)
+- #### [Solution Of Week 9](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week9)
+
+## Week 10 (Lessons 069 to 075)
+
+- [Link to Week 10 Assignments on Elzero.org - Lessons 069 to 071](https://elzero.org/python-assignments-lesson-from-69-to-71/)
+- [Link to Week 10 Assignments on Elzero.org - Lessons 069 to 071](https://elzero.org/python-assignments-lesson-from-72-to-75/)
+- #### [Solution Of Week 10](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week10)
+
+## Week 11 (Lessons 076 to 085)
+
+- [Link to Week 11 Assignments on Elzero.org - Lessons 076 to 071](https://elzero.org/python-assignments-lesson-from-76-to-78/)
+- [Link to Week 11 Assignments on Elzero.org - Lessons 079 to 080](https://elzero.org/python-assignments-lesson-from-79-to-80/)
+- [Link to Week 11 Assignments on Elzero.org - Lessons 081 to 085](https://elzero.org/python-assignments-lesson-from-81-to-85/)
+- #### [Solution Of Week 11](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week11)
+
+## Week 12 (Lessons 086 to 094)
+
+- [Link to Week 12 Assignments on Elzero.org - Lessons 086 to 089](https://elzero.org/python-assignments-lesson-from-86-to-89/)
+- [Link to Week 12 Assignments on Elzero.org - Lessons 090 to 094](https://elzero.org/python-assignments-lesson-from-90-to-94/)
+- #### [Solution Of Week 12](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week12)
+
+## Week 13 (Lessons 095 to 102)
+
+- [Link to Week 13 Assignments on Elzero.org - Lessons 095 to 102](https://elzero.org/python-assignments-lesson-from-95-to-102/)
+- #### [Solution Of Week 13](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week13)
+
+## Week 14 (Lessons 103 to 116)
+
+- [Link to Week 14 Assignments on Elzero.org - Lessons 103 to 116](https://elzero.org/python-assignments-lesson-from-103-to-116/)
+- #### [Solution Of Week 14](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week14)
+
+## Week 15 (Lessons 117 to 127)
+
+- [Link to Week 15 Assignments on Elzero.org - Lessons 117 to 127](https://elzero.org/python-assignments-lesson-from-117-to-127/)
+- #### [Solution Of Week 15](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week15)
+
 ---
 <div align="center">
   &copy; 2023 DevAhmedKhalil
