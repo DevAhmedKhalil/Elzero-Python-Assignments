@@ -9,7 +9,7 @@
 
 - [Link to Week 8 Assignments on Elzero.org - Lessons 056 to 059](https://elzero.org/python-assignments-lesson-from-56-to-59/)
 - [Link to Week 8 Assignments on Elzero.org - Lessons 060 to 064](https://elzero.org/python-assignments-lesson-from-60-to-64/)
-- #### [Solution Of Week 8](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week8)
+- #### [Solution Of Week 8](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week8/week8)
 
 ---
 <div align="center">
