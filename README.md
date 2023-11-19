@@ -7,7 +7,7 @@
 ## Week 9 (Lessons 065 to 068)
 
 - [Link to Week 9 Assignments on Elzero.org - Lessons 065 to 068](https://elzero.org/python-assignments-lesson-from-65-to-68/)
-- #### [Solution Of Week 9](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week9)
+- #### [Solution Of Week 9](https://github.com/DevAhmedKhalil/Elzero-Python-Assignments/tree/week9/week9)
 
 ---
 
